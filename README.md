@@ -1,2 +1,3 @@
 # MessageSpinner
-Spins dem letters.
+Spins dem letters. (RUST)
+WIP Upload soon
