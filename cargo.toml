@@ -1,0 +1,9 @@
+[package]
+name = "message_spinner"
+version = "0.1.0"
+authors = ["RetroWeb"]
+edition = "2024"
+description = "A simple message spinner for rust"
+
+[dependencies]
+rand = "0.8" 
